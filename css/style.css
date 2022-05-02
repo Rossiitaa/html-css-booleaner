@@ -1,11 +1,87 @@
+
+
+body {
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+}
+
 .banner {
     background-image: url(../img/pattern.png);
     background-color: #41a0ff;
     background-repeat: repeat;
-    min-height: 180px;
+    background-size: 36%;
 }
 
 .logo {
     height: 80px;
     margin: 80px 0px 0px 10px;
+}
+
+h1 {
+    font-size: 70px;
+    display: block;
+    margin: 20px 0px 10px 0px;
+}
+
+.autore {
+    font-size: 20px;
+    color: #89939e;
+}
+
+.data {
+    color: #89939e;
+    padding-bottom: 30px;
+}
+
+.foto1 {
+    width: 900px;
+}
+
+.foto2 {
+    width: 770px;
+}
+
+.descrizione-foto1{
+    font-size: small;
+}
+
+.descrizione-foto2 {
+    font-size: small;
+}
+
+
+.testo-lorem {
+    font-size: 20px;
+    
+}
+
+.lista {
+    padding-left: 12px;
+    margin: 20px 0px 20px 0px;
+    font-size: 18px;
+}
+
+table {
+    margin: 30px 0px;
+    border-spacing: 0px;
+}
+
+.prima-riga {
+    background-color: #2e98e4;
+    color: #fff;
+}
+
+.colonna {
+    width: 20%;
+}
+.descrizione-colonna {
+    width: 60%;
+}
+
+.righe {
+    height: 40px;
+}
+
+.colore-righe {
+    background-color: #6ac3d7;
+    opacity: 0.8;
 }
