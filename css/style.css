@@ -8,8 +8,6 @@ body {
     margin: 0px 50px 0px 50px;
 }
 
-/* main */
-
 
 .banner {
     background-image: url(../img/pattern.png);
@@ -22,6 +20,8 @@ body {
     height: 80px;
     margin: 80px 0px 0px 10px;
 }
+
+/* main */
 
 h1 {
     font-size: 70px;
