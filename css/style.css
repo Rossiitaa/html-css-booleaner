@@ -8,6 +8,9 @@ body {
     margin: 0px 50px 0px 50px;
 }
 
+/* main */
+
+
 .banner {
     background-image: url(../img/pattern.png);
     background-color: #41a0ff;
@@ -54,8 +57,7 @@ h1 {
 
 
 .testo-lorem {
-    font-size: 20px;
-    
+    font-size: 20px;   
 }
 
 .lista {
@@ -63,6 +65,8 @@ h1 {
     margin: 20px 0px 20px 0px;
     font-size: 18px;
 }
+
+/* tabella */
 
 table {
     margin: 30px 0px;
@@ -93,6 +97,8 @@ table {
 span {
     background-color: #f6ff00;
 }
+
+/* footer */
 
 .ulteriore {
     color: grey;
